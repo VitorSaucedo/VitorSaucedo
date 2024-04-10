@@ -1,6 +1,6 @@
 ### Olá, Me chamo Vitor Saucedo e esse é o meu Github!
 - 👀 Tenho interesse em Programação
-- 🌱 Estou aprendendo JavaScript, HTML & CSS
+- 🌱 Estou aprendendo Java
 <div align="center">
   <a href="https://github.com/vitorsaucedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsaucedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
