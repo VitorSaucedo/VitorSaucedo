@@ -1,33 +1,46 @@
 # 👋 Olá! Eu sou o Vitor Saucedo Uggeri
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul Virtual (2024–2026).  
-🚀 Finalista do **Geração Caldeira 2025**, programa intensivo de capacitação em tecnologia e inovação.  
-💻 Interesses principais: **Desenvolvimento de Software**, **Java** e **Python**.  
+Desenvolvedor Backend em formação, focado no ecossistema **Java**.
+
+---
+
+## 🚀 Sobre Mim
+
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
+- 🏆 Aluno do **Geração Caldeira 2025**, formação Intensiva em Desenvolvimento Java e Soft Skills.
+- 🎯 Foco atual: **Spring Framework (Boot, Security, Data JPA)** e persistência de dados.
+- ⚡ Buscando minha primeira oportunidade como Desenvolvedor Junior/Estagiário.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Vitor-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitor-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+### **Back-end**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+### **Banco de Dados & Ferramentas**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### **Front-end (Básico)**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <a href="https://github.com/vitorsaucedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsaucedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsaucedo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
-## 📬 Contato
-- ✉️ Email: [vitorsaucedo18@outlook.com](mailto:vitorsaucedo18@outlook.com)  
-- 💼 LinkedIn: [Vitor Saucedo Uggeri](https://www.linkedin.com/in/vitor-saucedo-uggeri-641868365/)  
+## 📬 Vamos nos conectar?
 
----
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-saucedo-uggeri-641868365/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorsaucedo18@outlook.com)
+
 ✨ *Sempre aprendendo, sempre evoluindo!*
