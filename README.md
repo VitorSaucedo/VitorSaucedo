@@ -7,7 +7,7 @@ Desenvolvedor Backend em formação, focado no ecossistema **Java**.
 ## 🚀 Sobre Mim
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
-- 🏆 Aluno do **Geração Caldeira 2025**, formação Intensiva em Desenvolvimento Java e Soft Skills.
+- 🌟 Aluno do **Geração Caldeira 2025**, formação Intensiva em Desenvolvimento Java e Soft Skills.
 - 🎯 Foco atual: **Spring Framework (Boot, Security, Data JPA)** e persistência de dados.
 - ⚡ Buscando minha primeira oportunidade como Desenvolvedor Junior/Estagiário.
 
