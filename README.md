@@ -32,8 +32,8 @@ Desenvolvedor Backend em formação, focado no ecossistema **Java**.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsaucedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsaucedo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitorsaucedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitorsaucedo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -41,6 +41,6 @@ Desenvolvedor Backend em formação, focado no ecossistema **Java**.
 ## 📬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-saucedo-uggeri-641868365/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorsaucedo18@outlook.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitorsaucedo18@outlook.com)
 
 ✨ *Sempre aprendendo, sempre evoluindo!*
