@@ -1,15 +1,16 @@
 # 👋 Olá! Eu sou o Vitor Saucedo Uggeri
 
-Desenvolvedor Backend em formação, focado no ecossistema **Java**.
+Desenvolvedor **Backend Java** em formação, com foco no ecossistema **Spring** e na construção de APIs eficientes e bem estruturadas.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
-- 🌟 Aluno do **Geração Caldeira 2025**, formação Intensiva em Desenvolvimento Java e Soft Skills.
-- 🎯 Foco atual: **Spring Framework (Boot, Security, Data JPA)** e persistência de dados.
-- ⚡ Buscando minha primeira oportunidade como Desenvolvedor Junior/Estagiário.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista para 08/2026).
+- 🌟 Participante do **Programa Geração Caldeira 2025** – formação intensiva em **Desenvolvimento Java** e **Soft Skills**.
+- 🏫 Atualmente na **mini-residência em Desenvolvimento de Software do Instituto Eldorado**.
+- 🎯 Foco em **Spring Boot, Spring Security, Spring Data JPA** e persistência de dados.
+- ⚡ Buscando minha **primeira oportunidade como Desenvolvedor Backend Júnior ou Estagiário**.
 
 ---
 
@@ -23,7 +24,7 @@ Desenvolvedor Backend em formação, focado no ecossistema **Java**.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### **Front-end (Básico)**
+### **Front-end (básico para integração)**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -43,4 +44,4 @@ Desenvolvedor Backend em formação, focado no ecossistema **Java**.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-saucedo-uggeri-641868365/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitorsaucedo18@outlook.com)
 
-✨ *Sempre aprendendo, sempre evoluindo!*
+✨ *Sempre aprendendo, sempre evoluindo em backend Java.*
