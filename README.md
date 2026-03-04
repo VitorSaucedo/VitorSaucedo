@@ -8,7 +8,7 @@ Desenvolvedor **Backend Java** em formação, com foco no ecossistema **Spring**
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista para 08/2026).
 - 🌟 Participante do **Programa Geração Caldeira 2025** – formação intensiva em **Desenvolvimento Java** e **Soft Skills**.
-- 🏫 Atualmente na **mini-residência em Desenvolvimento de Software do Instituto Eldorado**.
+- 🏫 Participante da **mini-residência em Desenvolvimento de Software do Instituto Eldorado**.
 - 🎯 Foco em **Spring Boot, Spring Security, Spring Data JPA** e persistência de dados.
 - ⚡ Buscando minha **primeira oportunidade como Desenvolvedor Backend Júnior ou Estagiário**.
 
