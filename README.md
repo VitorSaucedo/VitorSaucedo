@@ -40,17 +40,18 @@ API Standalone pronta para produção focada em autenticação e autorização r
 - **Destaque:** Rotação de Refresh Token (UUID) para revogação imediata, Audit Log de segurança, bloqueio automático de conta após 5 falhas e histórico de senhas.
 - [🔗 Ver Repositório](https://www.github.com/VitorSaucedo/janus)
 
-### 🔹Finly
-Aplicação Fullstack de controle financeiro com foco em regras de negócio complexas, orçamentos e metas, seguindo arquitetura package-by-feature.
-- **Tecnologias:** Java 21, Spring Boot 4.0.3, Spring Security 7.0.3 (OAuth2 RSA), Hibernate 7, Flyway 11, React 19 e Tailwind 4.
-- **Destaque:** Autenticação via JWT com par de chaves RSA, atualização automática de saldo em tempo real, planos de parcelamento e orçamentos com alertas de estouro.
-- [🔗 Ver Repositório](https://www.github.com/VitorSaucedo/finly)
 
 ### 🔹Storefront
 Plataforma de e-commerce construída com arquitetura de microsserviços, comunicação assíncrona via RabbitMQ e autenticação centralizada com JWT.
 - **Tecnologias:** Java 21, Spring Boot 4.0.3, Spring Cloud Gateway, Spring AMQP, PostgreSQL 16, RabbitMQ 3, React 19 e TypeScript 5.9.
 - **Destaque:** 5 serviços independentes orquestrados via API Gateway, Saga de compensação para consistência eventual de estoque, processamento de pagamentos assíncrono com idempotência e taxa de sucesso simulada de 80%.
 - [🔗 Ver Repositório](https://www.github.com/VitorSaucedo/storefront)
+
+### 🔹Finly
+Aplicação Fullstack de controle financeiro com foco em regras de negócio complexas, orçamentos e metas, seguindo arquitetura package-by-feature.
+- **Tecnologias:** Java 21, Spring Boot 4.0.3, Spring Security 7.0.3 (OAuth2 RSA), Hibernate 7, Flyway 11, React 19 e Tailwind 4.
+- **Destaque:** Autenticação via JWT com par de chaves RSA, atualização automática de saldo em tempo real, planos de parcelamento e orçamentos com alertas de estouro.
+- [🔗 Ver Repositório](https://www.github.com/VitorSaucedo/finly)
 
 ---
 
